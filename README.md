@@ -42,7 +42,7 @@ When you decide to return to stable channel simply delete provided repository UR
 Setup
 -----
 
-Before you can start using **Mainframer Integration** plugin you must configure your [remote machine](https://github.com/gojuno/mainframer/blob/development/docs/SETUP_REMOTE.md) and [local machine](https://github.com/gojuno/mainframer/blob/development/docs/SETUP_LOCAL.md) (omitting last *Configuration* section, because the plugin will do it for you).
+Before you can start using **Mainframer Integration** plugin you must configure your [remote machine](https://github.com/buildfoundation/mainframer/blob/3.x/docs/getting-started/remote-machine.md) and [local machine](https://github.com/buildfoundation/mainframer/blob/3.x/docs/getting-started/local-machine.md) (omitting last *Configuration* section, because the plugin will do it for you).
 
 Usage
 -----
